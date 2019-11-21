@@ -3,8 +3,8 @@
 #ifndef H_FUNCTIONS
 #define H_FUNCTIONS //it is necessary to define a header
 
-int a = 16;
-int b = 7;
+int a = 16; //@param a - integer
+int b = 7; //@param b - integer
 
 int x; //for console use (input)
 int y; //for console use (input)
